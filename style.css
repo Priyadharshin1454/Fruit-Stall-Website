@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    font-size: 50px;
+    color:violet;
+}
+.Logo{
+    display: flex;
+}
+.image5{
+    width: 50px;
+    height: 50px;
+}
+.shop{
+    font-size: large;
+    padding:20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+div a{
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top: 10px;
+    margin-left: 25px;
+    padding: 10px;
+    line-height: 2px;
+    justify-content: space-between;
+}
+.text{
+    padding: 1px;
+    margin-top:20px;
+    margin-left: 350px;
+    width: 300px;
+    height: 10px;
+}
+.search{
+    width: 25px;
+   padding: 1px;
+   height:10px;
+   margin-top :20px;
+}
+.banner{
+    
+    width:1500px;
+    height:400px;
+}
+body{
+    background-color:skyblue;
+}
+.varieties{
+color:black;
+font-style: italic;
+font-size: large;
+}
+.fruits{
+    width:300px;
+    height: 300px;
+}
+.apple{
+    margin-left: 0%;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+}
+.orange{
+    margin: left -1px;
+    font-size: 20px;
+    width: -1px;
+    height: 10px;
+}
+.grape{
+    margin-left: 0px;
+    font-size: 20px;
+}
+.pom{
+    
+    margin-left: 0px;
+    font-size: 20px;
+}
+.water{
+    margin-left: 0px;
+    font-size: 20px;
+}
+.juice{
+    margin-left: 0px;
+    font-size: 20px;
+}
